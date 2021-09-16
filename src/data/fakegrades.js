@@ -1,0 +1,32 @@
+const grades = [
+    {
+        id: 1,
+        projTitle: 'Football tracker',
+        projReqs: ['Responsive', 'Polished UI'],
+        dueDate: "2021-09-27",
+        varCats: ['Category 1', 'Category 2'],
+        varCatsVals: ['Value 1', 'Value 2'],
+        groupSize: 4,
+        groupScore: ['Score 1', 'Score 2'],
+        memberScore: ['Score 1 mem 1'],
+        links: ['deployed link', 'github link'],
+        comments: ['comment 1', 'comment 2'],
+        gradeCalc: 89,
+    },
+    {
+        id: 2,
+        projTitle: 'Food finder',
+        projReqs: ['Responsive', 'Polished UI'],
+        dueDate: "2021-09-23",
+        // dueDate: 1631586044412,
+        varCats: ['Category 1', 'Category 2'],
+        varCatsVals: ['Value 1', 'Value 2'],
+        groupSize: 4,
+        groupScore: ['Score 1', 'Score 2'],
+        memberScore: ['Score 1 mem 1'],
+        links: ['deployed link', 'github link'],
+        comments: ['comment 1', 'comment 2'],
+        gradeCalc: 73,
+    },
+]
+export default grades
