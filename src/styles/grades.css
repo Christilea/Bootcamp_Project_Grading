@@ -1,0 +1,19 @@
+.gradeDiv {
+  width: 40%;
+  background-color: skyblue;
+  padding: 15px;
+  margin-bottom: 1rem;
+}
+.projectDiv {
+  width: 40%;
+  background-color: skyblue;
+  padding: 15px;
+  margin: 0 auto;
+}
+
+.header {
+  width: 85%;
+  border: 1px solid black;
+  margin: 20px auto;
+  padding: 1rem;
+}
