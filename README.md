@@ -26,9 +26,10 @@ grade.
 
 # Deployed to Github Pages
 
-# ScreenShots
-C:\Users\chris\bootcamp_project_grading\src\components\img\Screenshot (4600).png
+# ScreenShot
+
 <img width="1400" alt="bootcamp_project_grading"src\components\img\Screenshot (4600).png
+
 # For Questions
 
 Christi Thompson
