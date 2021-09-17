@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.1cdf47b4.chunk.css",
-    "main.js": "/static/js/main.0a227175.chunk.js",
-    "main.js.map": "/static/js/main.0a227175.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.85ee4d36.js",
-    "runtime-main.js.map": "/static/js/runtime-main.85ee4d36.js.map",
-    "static/js/2.5ac8a4f3.chunk.js": "/static/js/2.5ac8a4f3.chunk.js",
-    "static/js/2.5ac8a4f3.chunk.js.map": "/static/js/2.5ac8a4f3.chunk.js.map",
-    "static/js/3.f1c0697e.chunk.js": "/static/js/3.f1c0697e.chunk.js",
-    "static/js/3.f1c0697e.chunk.js.map": "/static/js/3.f1c0697e.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.1cdf47b4.chunk.css.map": "/static/css/main.1cdf47b4.chunk.css.map",
-    "static/js/2.5ac8a4f3.chunk.js.LICENSE.txt": "/static/js/2.5ac8a4f3.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+    "main.css": "//christilea.github.io/bootcamp_project_grading/static/css/main.1cdf47b4.chunk.css",
+    "main.js": "//christilea.github.io/bootcamp_project_grading/static/js/main.0a227175.chunk.js",
+    "main.js.map": "//christilea.github.io/bootcamp_project_grading/static/js/main.0a227175.chunk.js.map",
+    "runtime-main.js": "//christilea.github.io/bootcamp_project_grading/static/js/runtime-main.22e94771.js",
+    "runtime-main.js.map": "//christilea.github.io/bootcamp_project_grading/static/js/runtime-main.22e94771.js.map",
+    "static/js/2.5ac8a4f3.chunk.js": "//christilea.github.io/bootcamp_project_grading/static/js/2.5ac8a4f3.chunk.js",
+    "static/js/2.5ac8a4f3.chunk.js.map": "//christilea.github.io/bootcamp_project_grading/static/js/2.5ac8a4f3.chunk.js.map",
+    "static/js/3.f1c0697e.chunk.js": "//christilea.github.io/bootcamp_project_grading/static/js/3.f1c0697e.chunk.js",
+    "static/js/3.f1c0697e.chunk.js.map": "//christilea.github.io/bootcamp_project_grading/static/js/3.f1c0697e.chunk.js.map",
+    "index.html": "//christilea.github.io/bootcamp_project_grading/index.html",
+    "static/css/main.1cdf47b4.chunk.css.map": "//christilea.github.io/bootcamp_project_grading/static/css/main.1cdf47b4.chunk.css.map",
+    "static/js/2.5ac8a4f3.chunk.js.LICENSE.txt": "//christilea.github.io/bootcamp_project_grading/static/js/2.5ac8a4f3.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "//christilea.github.io/bootcamp_project_grading/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.85ee4d36.js",
+    "static/js/runtime-main.22e94771.js",
     "static/js/2.5ac8a4f3.chunk.js",
     "static/css/main.1cdf47b4.chunk.css",
     "static/js/main.0a227175.chunk.js"
